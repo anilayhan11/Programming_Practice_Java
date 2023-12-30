@@ -1,4 +1,4 @@
-package ProgrammingBasicsWithJava.ConditionalStatements.Lab;
+package Lab;
 
 import java.util.Scanner;
 
