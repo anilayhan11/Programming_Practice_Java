@@ -19,7 +19,7 @@ public class PrimePairs_13 {
                 //Prime number check
                 boolean isPrime1 = true;
                 for (int k = 2; k <= j / 2; k++) {
-                    if ( j % k == 0) {
+                    if (j % k == 0) {
                         isPrime1 = false;
                     }
                 }

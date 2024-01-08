@@ -2,7 +2,7 @@ package L2_Exercise;
 
 import java.util.Scanner;
 
-public class Vacation_03 {
+public class P03_Vacation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

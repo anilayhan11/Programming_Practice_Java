@@ -2,7 +2,7 @@ package L1_Lab;
 
 import java.util.Scanner;
 
-public class RefactorSumOfOddNumbers_13 {
+public class P13_RefactorSumOfOddNumbers {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

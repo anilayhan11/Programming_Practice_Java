@@ -2,7 +2,7 @@ package L2_Exercise;
 
 import java.util.Scanner;
 
-public class Ages_01 {
+public class P01_Ages {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

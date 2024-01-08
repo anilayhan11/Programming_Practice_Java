@@ -2,7 +2,7 @@ package L1_Lab;
 
 import java.util.Scanner;
 
-public class ForeignLanguages_06 {
+public class P06_ForeignLanguages {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

@@ -2,14 +2,13 @@ package L1_Lab;
 
 import java.util.Scanner;
 
-public class Passed_02 {
+public class P08_DivisibleBy3 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        double grade = Double.parseDouble(scanner.nextLine());
 
-        if (grade >= 3) {
-            System.out.println("Passed!");
+        for (int i = 3; i <= 100 ; i+=3) {
+            System.out.println(i);
         }
     }
 }

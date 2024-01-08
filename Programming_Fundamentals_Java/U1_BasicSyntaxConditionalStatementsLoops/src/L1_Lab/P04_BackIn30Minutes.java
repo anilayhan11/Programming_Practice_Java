@@ -2,7 +2,7 @@ package L1_Lab;
 
 import java.util.Scanner;
 
-public class BackIn30Minutes_04 {
+public class P04_BackIn30Minutes {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
