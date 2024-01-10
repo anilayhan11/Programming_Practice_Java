@@ -1,33 +1,33 @@
 package L2_Exercise;
 
 import java.util.Scanner;
-
-public class P05_Login {
+public class Demo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        String username = scanner.nextLine();
-        String input = scanner.nextLine();
-        String password = "";
-        int counter = 0;
 
+        String username = scanner.nextLine();
+        String password = "";
         for (int i = username.length() - 1; i >= 0; i--) {
             char letter = username.charAt(i);
             password += letter;
         }
 
-        while (!input.equals(password)) {
-            counter++;
-
-            if (counter == 4) {
+        String guessPassword = scanner.nextLine();
+        int tries = 0;
+        while (!guessPassword.equals(password)) {
+            tries++;
+            if (tries == 4) {
                 System.out.printf("User %s blocked!", username);
-                return;
-            } else {
-                System.out.println("Incorrect password. Try again.");
+                break;
             }
+            System.out.println("Incorrect password. Try again.");
 
-            input = scanner.nextLine();
+            guessPassword = scanner.nextLine();
         }
-        System.out.printf("User %s logged in.", username);
+        if (guessPassword.equals(password)) {
+            System.out.printf("User %s logged in.", username);
+        }
     }
 }
+
