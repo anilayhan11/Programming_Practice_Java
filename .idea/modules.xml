@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Programming_Basics_Java/DEMO/DEMO.iml" filepath="$PROJECT_DIR$/Programming_Basics_Java/DEMO/DEMO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programming_Fundamentals_Java/Programming_Fundamentals_Java.iml" filepath="$PROJECT_DIR$/Programming_Fundamentals_Java/Programming_Fundamentals_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programming_Practice_Java.iml" filepath="$PROJECT_DIR$/Programming_Practice_Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Programming_Fundamentals_Java/U1_BasicSyntaxConditionalStatementsLoops/U1_BasicSyntaxConditionalStatementsLoops.iml" filepath="$PROJECT_DIR$/Programming_Fundamentals_Java/U1_BasicSyntaxConditionalStatementsLoops/U1_BasicSyntaxConditionalStatementsLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming_Fundamentals_Java/U2_DataTypesAndVariables/U2_DataTypesAndVariables.iml" filepath="$PROJECT_DIR$/Programming_Fundamentals_Java/U2_DataTypesAndVariables/U2_DataTypesAndVariables.iml" />
     </modules>
   </component>
 </project>
