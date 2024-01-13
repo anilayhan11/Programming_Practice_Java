@@ -1,3 +1,5 @@
+package U1_Lab;
+
 import java.math.BigDecimal;
 import java.util.Scanner;
 

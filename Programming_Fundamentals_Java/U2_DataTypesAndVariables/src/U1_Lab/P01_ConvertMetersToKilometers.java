@@ -1,3 +1,5 @@
+package U1_Lab;
+
 import java.util.Scanner;
 
 public class P01_ConvertMetersToKilometers {
