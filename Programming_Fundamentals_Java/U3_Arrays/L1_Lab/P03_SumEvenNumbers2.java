@@ -1,5 +1,5 @@
 //Solution with .stream
-package L1_Lab;
+package U5_List.L1_Lab;
 
 import java.util.Arrays;
 import java.util.Scanner;

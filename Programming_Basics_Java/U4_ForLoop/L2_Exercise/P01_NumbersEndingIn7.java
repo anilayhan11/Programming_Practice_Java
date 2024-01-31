@@ -1,4 +1,4 @@
-package L2_Exercise;
+package U5_List.L1_Lab.L2_Exercise;
 
 public class NumbersEndingIn7_01 {
     public static void main(String[] args) {
