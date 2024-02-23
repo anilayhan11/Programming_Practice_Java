@@ -1,5 +1,5 @@
 //Solution with for loop.
-package U5_List.L1_Lab;
+package U5_Lists.L1_Lab;
 
 import java.util.Scanner;
 

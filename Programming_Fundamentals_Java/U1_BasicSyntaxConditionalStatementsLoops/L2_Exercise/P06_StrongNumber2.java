@@ -1,5 +1,5 @@
 // Solution using modular division.
-package U5_List.L1_Lab.L2_Exercise;
+package U5_Lists.L1_Lab.L2_Exercise;
 
 import java.util.Scanner;
 

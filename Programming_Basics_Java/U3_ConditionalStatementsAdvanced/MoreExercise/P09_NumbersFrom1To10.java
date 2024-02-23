@@ -1,4 +1,4 @@
-package U5_List.L1_Lab.MoreExercise;
+package U5_Lists.L1_Lab.MoreExercise;
 
 public class NumbersFrom1To10_09 {
 

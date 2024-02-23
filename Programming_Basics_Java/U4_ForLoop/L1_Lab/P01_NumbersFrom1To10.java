@@ -1,4 +1,4 @@
-package U5_List.L1_Lab;
+package U5_Lists.L1_Lab;
 
 public class NumbersFrom1To10_01 {
     public static void main(String[] args) {
